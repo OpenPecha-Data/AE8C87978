@@ -1,0 +1,19 @@
+segment_sources:
+  I2DA408D9:
+    type: origin_type
+    relation: translation
+    language: en
+  I88382D8F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7906fd86f8ef4add8bd74b95b0762e37:
+    I2DA408D9: 035b6efee16842a1a69724eb80cde8cd
+    I88382D8F: 8f85269adabb4808a526dc80af4db252
+  771081a9c94e46228b65d864d6683084:
+    I2DA408D9: 760ef0632e8a4f9fa7198560c13133be
+    I88382D8F: ae27cf5493b3476c8fa474ea482aafe3
+  0a92fb8b71e847f085c319afe6a2b512:
+    I2DA408D9: 8c5d63cb17b94a9ebdf00810b90fbf28
+    I88382D8F: ed992bd156704126837f7794bee88ead
